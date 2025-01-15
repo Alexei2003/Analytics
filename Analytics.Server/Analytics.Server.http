@@ -1,0 +1,6 @@
+@Analytics.Server_HostAddress = http://localhost:5210
+
+GET {{Analytics.Server_HostAddress}}/authorization/
+Accept: application/json
+
+###

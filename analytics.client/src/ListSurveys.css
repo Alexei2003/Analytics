@@ -1,0 +1,40 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+.profile-buttons {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.tableListSurveys {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+    .tableListSurveys th,
+    .tableListSurveys td {
+        padding: 10px;
+        text-align: left;
+        border-bottom: 1px solid #444;
+    }
+
+    .tableListSurveys th {
+        background-color: #1e1e1e;
+    }
+
+.elemListSurveys {
+    cursor: pointer;
+}
+
+    .elemListSurveys:hover {
+        background-color: #333333;
+    }
+
+    .elemListSurveys label {
+        margin: 0;
+    }

@@ -1,0 +1,39 @@
+.profile-btn {
+    background: #594cb0;
+    color: white;
+}
+
+.analytics-btn {
+    background: #4cb056;
+    color: white;
+}
+
+.menu-btn {
+    background: #4ca1af;
+    color: white;
+}
+
+.logout-btn {
+    background: #e74c3c;
+    color: white;
+}
+
+button.animate-bounce:hover {
+    animation: bounce 0.5s;
+}
+
+.list-surveys-btn {
+    background: #4cb056;
+    color: white;
+}
+
+.survey-creator-btn {
+    background: #9c4cb0;
+    color: white;
+}
+
+.panel-btn {
+    background: #b04c70;
+    color: white;
+}
+

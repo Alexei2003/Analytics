@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "chart.js": "^4.4.6",
+    "jsonwebtoken": "^9.0.2",
+    "jwt-decode": "^4.0.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-router-dom": "^6.28.0"
+  },
+  "devDependencies": {
+    "@esbuild-plugins/node-globals-polyfill": "^0.2.3",
+    "@esbuild-plugins/node-modules-polyfill": "^0.2.2"
+  }
+}
